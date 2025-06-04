@@ -20,7 +20,7 @@ Este projeto tem como objetivo aplicar na prática os principais conceitos do An
 
 ## 🛠️ Tecnologias Utilizadas
 
-- [Angular CLI](https://angular.dev/tools/cli) (v19.2.12)
+- Angular CLI (v19.2.12)
 - TypeScript
 - SCSS (Sass)
 - RxJS
